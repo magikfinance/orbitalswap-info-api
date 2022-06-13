@@ -1,9 +1,9 @@
 {
-  "name": "PancakeSwap Exchange LITE",
+  "name": "OrbitalSwap Exchange LITE",
   "schemaPath": "schema.graphql",
   "extensions": {
     "endpoints": {
-      "PancakeSwap Exchange LITE": {
+      "OrbitalSwap Exchange LITE": {
         "url": "https://api.thegraph.com/subgraphs/name/orbitalswap/exchange",
         "headers": {
           "user-agent": "JS GraphQL"
