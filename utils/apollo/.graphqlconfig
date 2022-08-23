@@ -4,7 +4,7 @@
   "extensions": {
     "endpoints": {
       "OrbitalSwap Exchange LITE": {
-        "url": "https://api.thegraph.com/subgraphs/name/orbitalswap/exchange",
+        "url": "https://api.thegraph.com/subgraphs/name/magikfinance/test",
         "headers": {
           "user-agent": "JS GraphQL"
         },
